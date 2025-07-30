@@ -23,4 +23,4 @@ Everyone now has 500 free credits to scan smart contracts. LISA supports scaning
 
 
 ## Miscellaneous
-If you find more hacks detected that shouldn't be happen as the vulnerabilities can be found by LISA, please reach out to us [X](https://x.com/AgentLISA_ai), or create a pull request directly.
+If you find more hacks detected that shouldn't be happening as the vulnerabilities can be found by LISA, please reach out to us [X](https://x.com/AgentLISA_ai), or create a pull request directly.
