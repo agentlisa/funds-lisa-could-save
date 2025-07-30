@@ -1,0 +1,19 @@
+name: Sync Data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Notify LISA to reload data
+        run: |
+          curl -X POST \
+            -H "x-api-key: ${{ secrets.ADMIN_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "{}" \
+            "${{ secrets.ADMIN_URL }}"
