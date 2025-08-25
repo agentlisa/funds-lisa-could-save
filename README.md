@@ -14,6 +14,7 @@ Everyone now has 500 free credits to scan smart contracts. LISA supports scaning
 
 | Date| Project | Loss Amount | Vulnerability Title | LISA Security Scan Report Link | Alert News |
 |-----|---------|-------------|---------------------|--------------------------------|-------------|
+| 2025-08-25 | [ShibaSwap](https://shibaswap.com) | $27K      | Lack of slippage protection in swaps leading to front-running and value loss | [Link](https://agentlisa.ai/scan/6e339d95-ff53-4ae2-b3d8-0c58c621d8fc) | [Alert](https://x.com/TenArmorAlert/status/1959805512184140043) |
 | 2025-08-14 | Grizzifi        | $61K      | Team milestones based on total investments (including withdrawn) instead of active investments.                 | [Link](https://agentlisa.ai/scan/aecff939-ea8e-4f83-b63f-76c32f3c8ef4)       | [Alert](https://x.com/MetaTrustAlert/status/1955967862276829375)|
 | 2025-07-29 | [SuperRare](https://superrare.com)         | $730K       | Incorrect access control in `updateMerkleRoot` allows unauthorized users to update the merkle root.                 | [Link](https://agentlisa.ai/scan/7c439f8c-3238-4a08-84c3-10ab69171d6c)       | [Alert](https://x.com/MetaTrustAlert/status/1949775292836508141)|
 | 2025-07-15 | [Arcadia Finance](https://arcadia.finance)   | $3.5M       | Arbitrary external call in _swapViaRouter allows initiator to perform unauthorized swaps                            | [Link](https://agentlisa.ai/scan/7fda7f28-acca-48a5-96e1-d7307b2dc71b)       | [Alert](https://x.com/MetaTrustAlert/status/1945407744879604068)|
